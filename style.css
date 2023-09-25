@@ -1,0 +1,44 @@
+
+.bordering{
+    border:2px solid black!important;
+    height: 570px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+#main-border {
+    height: 340px;
+    border: 2px  solid black ;
+    margin-top: 10px;
+    margin-left: 5rem;
+    margin-right:5rem;
+
+    }
+    
+    #paragraph-heigt{
+        height: 150px;
+    }
+
+    #input-width{
+        width: 60%;
+        margin-top: 0.4rem;
+        margin-bottom: 0.4rem;
+        border:2px solid black;
+    }
+
+    .button{
+        border: 2px solid black;
+        background-color: white;
+        padding: 8px 60px;
+        
+   }
+   .info{
+    display: flex;
+    align-items: start;
+   }
+
+   .image{
+    margin-top: 20px;
+    border-radius: 80%;
+   }
+
